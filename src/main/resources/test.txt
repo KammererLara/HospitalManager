@@ -1,0 +1,33 @@
+Doctor: Dr. Muster
+Department: Cardiology
+Shift: Morning
+Average Patients: 3,00
+
+Shift: Afternoon
+Average Patients: 4,00
+
+Shift: Night
+Average Patients: 5,00
+
+Doctor: Dr. Dorfer
+Department: Dermatology
+Shift: Morning
+Average Patients: 7,00
+
+Shift: Afternoon
+Average Patients: 8,00
+
+Shift: Night
+Average Patients: 9,00
+
+Doctor: Dr. Mueller
+Department: Cardiology
+Shift: Morning
+Average Patients: 24,00
+
+Shift: Afternoon
+Average Patients: 25,00
+
+Shift: Night
+Average Patients: 26,00
+

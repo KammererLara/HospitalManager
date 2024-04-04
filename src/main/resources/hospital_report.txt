@@ -1,0 +1,275 @@
+Doctor: org.lecture.DoctorTests@5010be6
+Department: Cardiology
+Shift: Morning
+Average Patients: 18,67
+
+Shift: Afternoon
+Average Patients: 32,00
+
+Shift: Night
+Average Patients: 42,67
+
+Doctor: org.lecture.DoctorTests@238e0d81
+Department: Cardiology
+Shift: Morning
+Average Patients: 28,67
+
+Shift: Afternoon
+Average Patients: 40,00
+
+Shift: Night
+Average Patients: 24,33
+
+Doctor: org.lecture.DoctorTests@31221be2
+Department: Cardiology
+Shift: Morning
+Average Patients: 25,67
+
+Shift: Afternoon
+Average Patients: 29,00
+
+Shift: Night
+Average Patients: 42,00
+
+Doctor: org.lecture.DoctorTests@377dca04
+Department: Cardiology
+Shift: Morning
+Average Patients: 27,33
+
+Shift: Afternoon
+Average Patients: 24,67
+
+Shift: Night
+Average Patients: 39,33
+
+Doctor: org.lecture.DoctorTests@728938a9
+Department: Cardiology
+Shift: Morning
+Average Patients: 36,00
+
+Shift: Afternoon
+Average Patients: 40,00
+
+Shift: Night
+Average Patients: 30,67
+
+Doctor: org.lecture.DoctorTests@21b8d17c
+Department: Neurology
+Shift: Morning
+Average Patients: 23,33
+
+Shift: Afternoon
+Average Patients: 32,33
+
+Shift: Night
+Average Patients: 24,33
+
+Doctor: org.lecture.DoctorTests@6433a2
+Department: Neurology
+Shift: Morning
+Average Patients: 21,00
+
+Shift: Afternoon
+Average Patients: 27,00
+
+Shift: Night
+Average Patients: 29,33
+
+Doctor: org.lecture.DoctorTests@5910e440
+Department: Neurology
+Shift: Morning
+Average Patients: 32,33
+
+Shift: Afternoon
+Average Patients: 46,00
+
+Shift: Night
+Average Patients: 22,67
+
+Doctor: org.lecture.DoctorTests@6267c3bb
+Department: Neurology
+Shift: Morning
+Average Patients: 20,00
+
+Shift: Afternoon
+Average Patients: 31,67
+
+Shift: Night
+Average Patients: 30,67
+
+Doctor: org.lecture.DoctorTests@533ddba
+Department: Neurology
+Shift: Morning
+Average Patients: 35,00
+
+Shift: Afternoon
+Average Patients: 31,33
+
+Shift: Night
+Average Patients: 43,00
+
+Doctor: org.lecture.DoctorTests@246b179d
+Department: Orthopedics
+Shift: Morning
+Average Patients: 31,33
+
+Shift: Afternoon
+Average Patients: 31,33
+
+Shift: Night
+Average Patients: 25,00
+
+Doctor: org.lecture.DoctorTests@7a07c5b4
+Department: Orthopedics
+Shift: Morning
+Average Patients: 16,33
+
+Shift: Afternoon
+Average Patients: 21,67
+
+Shift: Night
+Average Patients: 31,00
+
+Doctor: org.lecture.DoctorTests@26a1ab54
+Department: Orthopedics
+Shift: Morning
+Average Patients: 31,33
+
+Shift: Afternoon
+Average Patients: 25,67
+
+Shift: Night
+Average Patients: 29,00
+
+Doctor: org.lecture.DoctorTests@3d646c37
+Department: Orthopedics
+Shift: Morning
+Average Patients: 36,00
+
+Shift: Afternoon
+Average Patients: 37,67
+
+Shift: Night
+Average Patients: 28,67
+
+Doctor: org.lecture.DoctorTests@41cf53f9
+Department: Orthopedics
+Shift: Morning
+Average Patients: 37,67
+
+Shift: Afternoon
+Average Patients: 38,67
+
+Shift: Night
+Average Patients: 48,00
+
+Doctor: org.lecture.DoctorTests@5a10411
+Department: Pediatrics
+Shift: Morning
+Average Patients: 29,33
+
+Shift: Afternoon
+Average Patients: 35,67
+
+Shift: Night
+Average Patients: 27,33
+
+Doctor: org.lecture.DoctorTests@2ef1e4fa
+Department: Pediatrics
+Shift: Morning
+Average Patients: 25,67
+
+Shift: Afternoon
+Average Patients: 39,67
+
+Shift: Night
+Average Patients: 38,00
+
+Doctor: org.lecture.DoctorTests@306a30c7
+Department: Pediatrics
+Shift: Morning
+Average Patients: 34,00
+
+Shift: Afternoon
+Average Patients: 34,00
+
+Shift: Night
+Average Patients: 22,00
+
+Doctor: org.lecture.DoctorTests@b81eda8
+Department: Pediatrics
+Shift: Morning
+Average Patients: 34,33
+
+Shift: Afternoon
+Average Patients: 29,00
+
+Shift: Night
+Average Patients: 31,33
+
+Doctor: org.lecture.DoctorTests@68de145
+Department: Pediatrics
+Shift: Morning
+Average Patients: 39,00
+
+Shift: Afternoon
+Average Patients: 19,33
+
+Shift: Night
+Average Patients: 18,00
+
+Doctor: org.lecture.DoctorTests@27fa135a
+Department: Dermatology
+Shift: Morning
+Average Patients: 38,67
+
+Shift: Afternoon
+Average Patients: 35,00
+
+Shift: Night
+Average Patients: 24,33
+
+Doctor: org.lecture.DoctorTests@46f7f36a
+Department: Dermatology
+Shift: Morning
+Average Patients: 26,00
+
+Shift: Afternoon
+Average Patients: 17,67
+
+Shift: Night
+Average Patients: 31,33
+
+Doctor: org.lecture.DoctorTests@421faab1
+Department: Dermatology
+Shift: Morning
+Average Patients: 41,00
+
+Shift: Afternoon
+Average Patients: 24,67
+
+Shift: Night
+Average Patients: 25,00
+
+Doctor: org.lecture.DoctorTests@2b71fc7e
+Department: Dermatology
+Shift: Morning
+Average Patients: 19,67
+
+Shift: Afternoon
+Average Patients: 37,33
+
+Shift: Night
+Average Patients: 18,67
+
+Doctor: org.lecture.DoctorTests@5ce65a89
+Department: Dermatology
+Shift: Morning
+Average Patients: 28,00
+
+Shift: Afternoon
+Average Patients: 27,00
+
+Shift: Night
+Average Patients: 31,67
+
